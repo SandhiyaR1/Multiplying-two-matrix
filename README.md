@@ -19,6 +19,8 @@ End the program.
 
 ## PROGRAM:
 ```python
+#Developed by :sandhiya
+#register number :22001197
 import numpy as np
 n=int(input())
 l1,l2=[],[]
